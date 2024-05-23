@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { Container, Table, Button } from 'react-bootstrap';
+import { Container, Button } from 'react-bootstrap';
 
 const API_BASE_URL = 'http://localhost:9095';
 
